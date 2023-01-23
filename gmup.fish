@@ -5,7 +5,7 @@ function gpx
         echo "Commit Number" $i
         git add .
         git commit --allow-empty --allow-empty-message -m "$i"
-        git push 
+        git push --progress
         echo "----------------------------"
     end 
 end

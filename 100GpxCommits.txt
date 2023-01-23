@@ -1,9 +1,2 @@
 ----------------------------
 Commit Number 1
-[sniffowomo e5cce07] 1
- 1 file changed, 6 deletions(-)
-To https://github.com/sniffowomo/push-1
-   cf0aaff..e5cce07  sniffowomo -> sniffowomo
-----------------------------
-----------------------------
-Commit Number 2
