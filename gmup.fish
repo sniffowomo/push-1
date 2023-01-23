@@ -5,5 +5,6 @@ function gpx
         git add .
         git commit --allow-empty --allow-empty-message -m ""
         git push 
+        echo "----------------------------"
     end 
 end
