@@ -8,5 +8,5 @@ alias gl="git log --oneline --decorate --graph"
 alias gp="git add . && git commit && git push"
 alias gb="git branch -a"
 alias gsb="gb && git switch"
-alias gpp="git add . && git commit --allow-empty --allow-empty-message "" && git push --progress"
+alias gpp="git add . && git commit --allow-empty --allow-empty-message -m "" && git push --progress"
 
